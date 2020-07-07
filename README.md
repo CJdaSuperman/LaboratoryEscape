@@ -5,4 +5,6 @@ It is a first-person puzzle game where you can grab certain objects and place th
 
 I learned how to create such a game because of Udemy's Unreal Engine C++ Developer: Learn C++ and Make Video Games. I have been coding in C++ for almost 2 years now, so this course really helped me learn how to use Unreal Engine than it has for C++ (although, it's great for teaching beginners C++ not only just for gaming, but also general standard practices). The assets came from free asset packages within the Unreal Marketplace. 
 
-To view the source code for this project, go to 
+You will see the names "DungeonEscape" within the repo because initially I had plans of making the environment a dungeon rather than a Laboratory. 
+
+To view the source code for this project, go to Source->DungeonEscape
