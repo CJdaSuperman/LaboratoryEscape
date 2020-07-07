@@ -7,4 +7,4 @@ I learned how to create such a game because of Udemy's Unreal Engine C++ Develop
 
 You will see the names "DungeonEscape" within the repo because initially I had plans of making the environment a dungeon rather than a Laboratory. 
 
-To view the source code for this project, go to Source->DungeonEscape
+To view the source code for this project, go to Source->DungeonEscape and the main files used for the game are the GrabHandler implementation and header files, and the DoorOpener implementation and header files.
